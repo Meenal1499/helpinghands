@@ -1,0 +1,19 @@
+body
+{
+    font-family: 'Comic Sans MS'; 
+    background-color:#C2DFFF;
+}
+
+.div1
+{
+    width:50%;
+    height:350;
+    float:left;
+}
+
+.div2
+{
+    width:50%;
+    height:350;
+    float:right;
+}
